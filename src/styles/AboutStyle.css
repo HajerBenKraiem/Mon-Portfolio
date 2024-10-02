@@ -1,0 +1,15 @@
+.about {
+    padding: 20px;
+    text-align: left;
+    background-color: #e6f7ff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-photo {
+    width: 150px; /* Ajuste la largeur selon ton besoin */
+    height: auto;
+    border-radius: 50%; /* Pour faire une image ronde */
+    margin-bottom: 15px; /* Espace sous l'image */
+  }
+  
